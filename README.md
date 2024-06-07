@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/85605422d77d2a84017ab.png" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px;" />
+  <img src="https://telegra.ph/file/c122eb08ed7b64d6eb248.png" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px;" />
 </p>
 
 <h2 align="center"><span style="color: #FF5722;">About Me</span></h2>
